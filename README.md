@@ -9,7 +9,6 @@ A queue system refers to any system in which:
 - **Call Centers**: People call a service center and wait for an available operator.  
 - **Data Processing on Servers**: Requests are sent to a server and need to be processed.  
 
----
 
 ## **What Does the `queuecomputer` Package Do?**
 The **`queuecomputer`** package in **R** is used to model and simulate queue systems. It calculates:  
